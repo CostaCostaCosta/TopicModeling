@@ -12,6 +12,7 @@ scikit-learn
 numpy
 matplotlib
 gensim (for Word2Vec model)
+Jupyter notebook
 
 To run on a novel dataset, first run the TopicModeling-RM until k must be determined. 
 Then, run Parameter_Selection-RM to determine an optimal k. 
